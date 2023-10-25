@@ -1,0 +1,32 @@
+<html>
+    <head>
+    </head>
+<body>
+    <input type="search" placeholder="Search Google or type a URL">
+    <style>
+        
+    body{
+display: flex;
+justify-content: center;
+background-color: aquamarine;
+    }
+
+    input    
+  {
+    width: 350px;
+    height: 30px;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    margin-top: 300px;
+    }
+body
+{
+
+
+    <h1> GOOGLE <h1/>
+    }
+            </style>
+
+</body>
+</html>>
