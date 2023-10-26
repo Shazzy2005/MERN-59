@@ -1,0 +1,42 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+
+    <div class="container"></div>
+    <div class="img"></div>
+    
+    <header> <button> overvie</button>
+        <button> Repository </button>
+        <button> projects</button>
+        <button> packges</button>
+        <button> stars</button>
+    
+    
+        </header>
+   
+ 
+        <img src="https://avatars.githubusercontent.com/u/148965366?v=4">
+        <h1>Shahzaib</h1>
+ <style>
+    img{
+height: 200px;
+width: 200px;
+border-radius: 100px;
+    }
+    header{
+
+width: 50px;
+height: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: 50px;
+    }
+ </style>
+</body>
+</html>
